@@ -1,12 +1,12 @@
-<!-- CABEÇALHO -->
-<h1 align="center"> 👋 Olá! Eu sou o Guilherme Augusto </h1>
-
 <!-- GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/T9lEux2hPQYne/giphy.gif" width="400"/>
 </p>
 
-<h3 align="center">💻 Estudante Técnico em Informática — CEFET-MG</h3>
+<!-- CABEÇALHO -->
+<h1 align="center"> Guilherme Augusto </h1>
+
+<h3 align="center"> Estudante Técnico em Informática — CEFET-MG</h3>
 
 <p align="center">
   Apaixonado por tecnologia, programação e criação de soluções.  
@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante do **2º ano técnico em Informática pelo CEFET-MG**  
+- 🎓 Estudante do **3º ano técnico em Informática pelo CEFET-MG**  
 - 💻 Focado em **C++, Python, Desenvolvimento Web e Programação Orientada a Objetos**  
 - 🔥 Estudando **React, Node.js, APIs e boas práticas de código**  
 - 🧠 Interesses: algoritmos, lógica, front-end e desenvolvimento de projetos práticos  
