@@ -1,66 +1,53 @@
-<!-- GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/T9lEux2hPQYne/giphy.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
+
+## Guilherme Augusto
+
+Sou estudante do **Curso Técnico em Informática do CEFET-MG** e desenvolvedor Back-end em formação.
+
+Atualmente estou aprofundando meus conhecimentos em **PHP/Laravel**, **Python/Django**, desenvolvimento de **APIs REST**, **Banco de Dados** e **Engenharia de Software**, buscando construir aplicações modernas, escaláveis e bem estruturadas.
+
+Tenho interesse por arquitetura de software, boas práticas de desenvolvimento, Clean Code e projetos que resolvam problemas reais.
+
+### 🦄 Linguagens
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### 💼 Tecnologias & Ferramentas
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 📚 Atualmente estudando
+
+- Laravel
+- Django
+- Arquitetura MVC
+- APIs REST
+- Banco de Dados Relacionais
+- Engenharia de Software
+- Clean Code
+
+### 📫 Entre em contato
+
+<p align="left">
+  <a href="mailto:gui.augusto.pessoal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/guilherme-augusto-114ab8344">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/guilherme_.aug">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
-<!-- CABEÇALHO -->
-<h1 align="center"> Guilherme Augusto </h1>
-
-<h3 align="center"> Estudante Técnico em Informática — CEFET-MG</h3>
-
-<p align="center">
-  Apaixonado por tecnologia, programação e criação de soluções.  
-  Sempre buscando evoluir, aprender e construir projetos cada vez melhores.
-</p>
-
----
-
-## 🚀 Sobre mim
-- 🎓 Estudante do **3º ano técnico em Informática pelo CEFET-MG**  
-- 💻 Focado em **C++, Python, Desenvolvimento Web e Programação Orientada a Objetos**  
-- 🔥 Estudando **React, Node.js, APIs e boas práticas de código**  
-- 🧠 Interesses: algoritmos, lógica, front-end e desenvolvimento de projetos práticos  
-- 📈 Sempre evoluindo e desenvolvendo coisas novas  
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### **Linguagens**
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### **Ferramentas**
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Madruzinho&show_icons=true&theme=shadow_blue"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madruzinho&layout=compact&theme=shadow_blue"/>
-  <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=Madruzinho&theme=shadow_blue&hide_border=false"/>
-</p>
-
----
-
-## 🌐 Onde me encontrar
-- 📧 Email: **gui.augusto.pessoal@gmail.com**  
-- 💼 LinkedIn: [Clique aqui](https://linkedin.com/in/guilherme-augusto-114ab8344)  
-- 📷 Instagram: [@Guilherme_.aug](https://instagram.com/guilherme_.aug)  
-
----
-
-<p align="center">✨ Sempre evoluindo. Sempre aprendendo ✨</p>
