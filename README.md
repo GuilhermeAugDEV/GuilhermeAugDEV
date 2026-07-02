@@ -2,7 +2,7 @@
 
 ## Guilherme Augusto
 
-Sou estudante do **Curso Técnico em Informática do CEFET-MG** e desenvolvedor **Full Stack** em formação.
+Sou estudante do **Curso Técnico em Informática do CEFET-MG** e desenvolvedor em formação.
 
 Atualmente estou aprofundando meus conhecimentos em **PHP/Laravel**, **Python/Django** e **React Native com Expo**, desenvolvendo aplicações web e mobile, APIs REST e soluções escaláveis.
 
